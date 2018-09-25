@@ -1,3 +1,4 @@
 MathPaper
 Author:
-<Your name>
+Joël Terschuur
+Supervisor: Juan Gabriel
