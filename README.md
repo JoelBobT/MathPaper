@@ -1,1 +1,2 @@
 MathPaper
+Author: <Your name>
